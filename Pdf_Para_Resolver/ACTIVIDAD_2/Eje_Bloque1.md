@@ -260,4 +260,3 @@ Español:
 
 ---
 
-*Generado para Actividad 2 - Módulo 4: APIs de IA*
