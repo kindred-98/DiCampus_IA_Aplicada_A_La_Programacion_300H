@@ -1,14 +1,22 @@
-Mongo
-usuario: PomodoroSecureSystem
-clave: Yasuo08Jude05Kroos1130
+# Credenciales de Acceso — PomodoroSecureTime
 
+> ⚠️ **ADVERTENCIA:** Estos datos son sensibles. No compartir.
 
-Supervisor@gmail.com
-Yasuo_08Jude05$
+---
 
-Wally@gmail.com
-Wally98_Davi19
+## Base de Datos
 
-encargado@gmail.com
-V4{JM!*+x!`Cm(p
-EncargadoSinEquipo98$
+| Servicio | Usuario | Contraseña |
+|----------|---------|-------------|
+| **MongoDB** | `PomodoroSecureSystem` | `Yasuo08Jude05Kroos1130` |
+
+---
+
+## Usuarios del Sistema
+
+| Rol | Email | Contraseña |
+|-----|-------|------------|
+| **Supervisor** | `Supervisor@gmail.com` | `Yasuo_08Jude05$` |
+| **Empleado** | `Wally@gmail.com` | `Wally98_Davi19` |
+| **Encargado** | `encargado@gmail.com` | `EncargadoSinEquipo98$` |
+| 

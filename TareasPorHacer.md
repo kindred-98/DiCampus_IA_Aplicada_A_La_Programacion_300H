@@ -1,21 +1,31 @@
-Codigo heredado ----- Prioridad
+# Tareas por Hacer
 
--costes_token
--sentimiento
--tickets_soporte
+## Código Heredado — Prioridad Alta
 
+| Prioridad | Tarea | Estado |
+|----------|-------|--------|
+| 🔴 Alta | costes_token | Pendiente |
+| 🔴 Alta | sentimiento | Pendiente |
+| 🔴 Alta | tickets_soporte | Pendiente |
 
------------------------------------------------------------------------------------
---------------------------------EXTRA MODULO 1 ------------------------------
------------------------------------------------------------------------------------
--*- Actividad_Avanzado_Generacion_IA                     (OPCIONAL)
--*- Refactorización y Mejora de Código con IA         (AVANZADO_OPCIONAL)
--*- Creación de funciones con IA                               (AVANZADO_OPCIONAL)
--*- Diseño de sistemas_NivelAvanzado                     (OPCIONAL)
--*- Actividad_Avanzado_TDD_IA                                (OPCIONAL)
--*- Actividad_Avanzado_PipelinE _API                       (OPCIONAL)
------------------------------------------------------------------------------------
---------------------------------EXTRA MODULO 2 ------------------------------
------------------------------------------------------------------------------------
--- Actividad_BuenasPrácticasAvanzadas_Restaurante_IA.docx.pdf
--- Actividad_Workflow _VideoClub_IA.docx.pdf
+---
+
+## Extra Módulo 1 (Opcional)
+
+| Estado | Actividad |
+|--------|----------|
+| ⬜ | Actividad_Avanzado_Generacion_IA |
+| ⬜ | Refactorización y Mejora de Código con IA |
+| ⬜ | Creación de funciones con IA |
+| ⬜ | Diseño de sistemas_NivelAvanzado |
+| ⬜ | Actividad_Avanzado_TDD_IA |
+| ⬜ | Actividad_Avanzado_PipelinE_API |
+
+---
+
+## Extra Módulo 2 (Opcional)
+
+| Estado | Actividad |
+|--------|----------|
+| ⬜ | Actividad_BuenasPrácticasAvanzadas_Restaurante_IA |
+| ⬜ | Actividad_Workflow_VideoClub_IA |
