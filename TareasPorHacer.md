@@ -1,13 +1,20 @@
 # Tareas por Hacer
 
+## Urgente para el jueves 16/04/2026
+
+- PomodoroSecureTime
+
 ## Código Heredado — Prioridad Alta
 
 | Prioridad | Tarea | Estado |
 |----------|-------|--------|
-| 🔴 Alta | costes_token | Pendiente |
+| ✅ Alta | costes_token | Entregada |
 | 🔴 Alta | sentimiento | Pendiente |
 | 🔴 Alta | tickets_soporte | Pendiente |
-
+| 🔴 Alta | NlP_Streamilt | Pendiente |
+| 🔴 Alta | VisioXComputadora | Pendiente |
+| 🔴 Alta | NLP_Fundamentos | Pendiente |
+| 🔴 Alta | NLP_Practica | Pendiente |
 ---
 
 ## Extra Módulo 1 (Opcional)

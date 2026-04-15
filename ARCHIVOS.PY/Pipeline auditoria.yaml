@@ -1,0 +1,36 @@
+name: Security Audit ADEV
+
+on:
+  pull_request:
+    [cite_start]branches: [ "main" ] # Se activa al intentar fusionar código a la rama principal [cite: 33]
+
+jobs:
+  security-sast:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        [cite_start]uses: actions/checkout@v4 # Clona el código para analizarlo [cite: 33]
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          [cite_start]python-version: '3.10' # Asegura compatibilidad con nuestro entorno [cite: 33]
+
+      - name: Install Bandit
+        [cite_start]run: pip install bandit # Instala el auditor de seguridad [cite: 33]
+
+      - name: Run Bandit Security Scan
+        # -r: escanea carpetas recursivamente
+        # -f txt: genera un reporte legible
+        # -o: guarda el resultado en un archivo
+        run: bandit -r . [cite_start]-f txt -o security_report.txt [cite: 33]
+
+      - name: Upload Security Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: bandit-report
+          path: security_report.txt # Permite descargar el reporte si el pipeline falla
+
+
+
+
