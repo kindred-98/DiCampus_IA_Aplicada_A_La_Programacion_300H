@@ -16,8 +16,8 @@ practicas
 ## teoricas
 
 NLP_Fundamentos ✅
+NLP_Practica ✅
 
-| 🔴 Alta | NLP_Practica | Pendiente |
 | 🔴 Alta | Fundamentos_Investigacion | Pendiente |
 | 🔴 Alta | Semiteoria y Practica | Pendiente |
 
