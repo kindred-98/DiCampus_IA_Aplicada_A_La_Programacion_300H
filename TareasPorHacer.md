@@ -13,12 +13,6 @@ practicas
 | 🔴 Alta | tickets_soporte | Pendiente |
 | 🔴 Alta | VisioXComputadora | Pendiente |
 
-## teoricas
-
-NLP_Fundamentos ✅
-NLP_Practica ✅
-Fundamentos_Investigacion ✅
-| 🔴 Alta | Semiteoria y Practica | Pendiente |
 
 ---
 
