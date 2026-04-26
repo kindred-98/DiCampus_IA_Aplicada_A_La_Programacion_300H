@@ -14,7 +14,9 @@ practicas
 | 🔴 Alta | VisioXComputadora | Pendiente |
 
 ## teoricas
-| 🔴 Alta | NLP_Fundamentos | Pendiente |
+
+NLP_Fundamentos ✅
+
 | 🔴 Alta | NLP_Practica | Pendiente |
 | 🔴 Alta | Fundamentos_Investigacion | Pendiente |
 | 🔴 Alta | Semiteoria y Practica | Pendiente |
