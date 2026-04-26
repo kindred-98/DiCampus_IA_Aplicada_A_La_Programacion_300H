@@ -8,13 +8,17 @@
 
 | Prioridad | Tarea | Estado |
 |----------|-------|--------|
-| ✅ Alta | costes_token | Entregada |
+practicas
 | 🔴 Alta | sentimiento | Pendiente |
 | 🔴 Alta | tickets_soporte | Pendiente |
-| 🔴 Alta | NlP_Streamilt | Pendiente |
 | 🔴 Alta | VisioXComputadora | Pendiente |
+
+## teoricas
 | 🔴 Alta | NLP_Fundamentos | Pendiente |
 | 🔴 Alta | NLP_Practica | Pendiente |
+| 🔴 Alta | Fundamentos_Investigacion | Pendiente |
+| 🔴 Alta | Semiteoria y Practica | Pendiente |
+
 ---
 
 ## Extra Módulo 1 (Opcional)
