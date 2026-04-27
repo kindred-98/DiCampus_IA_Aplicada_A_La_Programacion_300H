@@ -1,19 +1,13 @@
 # Tareas por Hacer
 
-## Urgente para el jueves 16/04/2026
-
-- PomodoroSecureTime ✅
-
 ## Código Heredado — Prioridad Alta
 
 | Prioridad | Tarea | Estado |
 |----------|-------|--------|
-practicas
-| 🔴 Alta | sentimiento | Pendiente |
 | 🔴 Alta | tickets_soporte | Pendiente |
 | 🔴 Alta | VisioXComputadora | Pendiente |
 
-
+RETO FINAL MODULO 4 ABIERTO PARA ENTREGAR EL JUEVES 30/04/26
 ---
 
 ## Extra Módulo 1 (Opcional)
